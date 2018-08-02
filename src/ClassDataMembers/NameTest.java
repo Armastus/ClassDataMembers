@@ -5,7 +5,7 @@ public class NameTest {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
 
-        /** INSTANIATION **/
+        /** INSTANTIATION **/
         /** Instantiation is when we are declaring a class object and assigning
          * data to it. **/
         //This calls the constructor with 3 parameters.
